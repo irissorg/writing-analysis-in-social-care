@@ -1,2 +1,2 @@
-# writing-analysis-in-social-care
-Writing Analysis in Social Care - Hugo website
+# Writing Analysis in Social Care
+Hugo project for the Writing Analysis in Social Care resource

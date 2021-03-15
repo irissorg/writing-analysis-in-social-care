@@ -1,0 +1,33 @@
+baseURL = "https://content.iriss.org.uk/working-together-apart/"
+languageCode = "en-gb"
+title = "Working together apart"
+theme = ["hugo-notice", "iriss-course"]
+verbose = true
+copyrighthtml = "Copyright &#xA9; 2017 John Doe. All Rights Reserved."
+menu = "main"
+googleAnalytics = "UA-814723-1"
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm", "404"]
+publishDir = "awsdocs"
+enableInlineShortcodes = true
+
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  IrissCourseAuthors  = "Josie Vallely"
+  IrissPublishDate = "August 2020"
+  IrissCourseYearReleased = "2020"
+  IrissHomeTitle = "Working together apart"
+
+[markup.tableOfContents]
+  endLevel = 2
+
+[privacy]
+   [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = false
+    respectDoNotTrack = true
+    useSessionStorage = false
