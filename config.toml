@@ -17,10 +17,11 @@ enableInlineShortcodes = true
   filename = "sitemap.xml"
 
 [params]
-  IrissCourseAuthors  = "Professor Theresa Lillis and Josie Vallely"
+  IrissCourseAuthors  = "Theresa Lillis and Josie Vallely"
   IrissPublishDate = "March 2021"
   IrissCourseYearReleased = "2021"
   IrissHomeTitle = "Writing Analysis in Social Care"
+  IrissDescription = "A free online course that provides practical support to writing analysis in relation to social work and social care records"
 
 [markup.tableOfContents]
   endLevel = 2

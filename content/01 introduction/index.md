@@ -1,43 +1,53 @@
 +++
 title = "Introduction"
 subtitle = ""
+description = "A free online course that provides practical support to writing analysis in relation to social work and social care records"
 url= "introduction"
-date = 2020-08-18T15:13:22Z
+date = 2021-03-20T15:13:22Z
 draft = false
 images = ["../images/tw-card-00.png"]
-description = "Find yourself running a partnership or group work project where the participants can’t physically be together? Expand your knowledge, increase your confidence and write a practical project plan to get you started."
 menu = "main"
 weight = 20
 +++
-{{< vimeo 454342833 >}}
-
 ## Overview
 
-The course will help you create a practical project plan and use tools that help us to connect across distance. It was initially put together in response to the COVID-19 lockdown, but it will be relevant for anyone running a collaborative project in circumstances which means that people cannot be together easily. This could include working with an international group, in a rural setting, or with people who may find it easier to contribute from home. 
+Welcome to the Iriss writing analysis online course. The aim of this course is to provide a practical framework for supporting the writing of analysis in social care records. This course aims to be relevant across social work domains.
 
-There are advantages to exploring the approaches to working together apart – working remotely can make efficient use of time; not all meetings really need to be in person. Virtual meetings can be inclusive if they mean folk can get involved who wouldn't otherwise be able to attend a meeting in a particular location. There are instances where remote working can save money on travel, room hire and catering, and some participants may feel more comfortable engaging at a distance. Learning how to successfully ‘work together apart’ will open up opportunities that you may not have realised existed, in terms of who and how you engage.
+This course has grown out of the recording practice project that Iriss has been running over the last two years. This project focussed on supporting social services practitioners to develop their skills and explore their ideas for improving their case recording. In 2019 we partnered with East Ayrshire Health and Social Care Partnership to look at the current strengths and challenges that social workers were facing in their recording practice. This practice-based research led to a new partnership with Scottish Borders Council social work teams which focused specifically on analysis in recording. Through a series of workshops, we explored practitioners' relationship with analysis and together we looked at how we could support people to improve their written analysis and feel more confident. This course draws on the insights generated from the Iriss project and findings from the [WiSP project](http://www.writinginsocialwork.com), a research project exploring professional social work writing.
 
-Each section of the course is short and succinct to help you get an overview and feel ready to get started on your own process. We have included optional ‘read, listen, watch’ resources at the end of each section if you are interested in going a little deeper into the subject. There are also a number of exercises to complete at the end of each section to help you assess your own understanding and learning, and to help you capture your thoughts in relation to your own project.
+## The aim and learning outcomes of the course
 
-## Aims of course
+The aim of this course is to provide a practical framework for supporting the writing of analysis in social care records. At the end of the course you will:
 
-In this course we will  focus on how you can create spaces for collaborative working  when you cannot be together with the people you are working with. By working through the course and completing the activities at the end of each unit, you will end the course with a project plan that includes:
+1. Have become familiar with one practical framework for supporting the writing of  analysis
+2. Have considered some aspects of the language of written analysis
+3. Have reflected on your own practice of writing analysis
 
-{{< content "inc-plan" >}}
+Analysis is central to everyday social work practice and involves paying careful attention to what is going on in any situation in order to understand that situation and make recommendations for support. Analysis can, therefore, be thought of as an ongoing process: The Oxford English Dictionary defines analysis as ‘The action or process of carrying out a detailed examination; the methodical or systematic investigation of something complex in order to explain or understand it.’ Analysis is an ongoing **process** that social workers are engaged in all of the time.
 
-In addition to this practical project plan you will have a greater understanding of how to make distance working more accessible, inclusive, meaningful and rewarding. You will also have a better understanding of the landscape of tools and technologies that are available to support your work.
+Analysis is of course also a **product**, a written record which captures key aspects of all the different parts of the analytic process – the thinking, listening and observing that social workers do. The written record of analysis involves selecting the most important details from all these aspects and writing in a way that makes these understandable to many different kinds of readers. Moving from analysis as process – a part of almost every moment of everyday practice and involving a wide range of professional skills, intuition and expertise – to analysis as a written product is central to the securing of services and providing good care for vulnerable young people and adults. Producing written analysis can also be challenging for many reasons.
 
-If you are confident about your project planning and are looking for more specific guidance about facilitating online discussion, we recommend you explore the [Online training tools toolbox](https://www.trainingforchange.org/tools/?topic%5B2%5D=2&searchbox=) by Training for Change. 
+As social workers you know a lot about analysis in social work writing. This course has not been designed to tell you how to do analysis. Instead we are hoping to offer you a chance to clarify how you think about your writing at work, and help you to spend some time reflecting on what exactly is involved in the writing of analysis in your everyday practice.
 
+## How does the course work?
 
-## Practical tips for completing the course
+The course has eight units:
 
-You can complete the course in the way that suits your learning style. This may mean that you work through the activities in a linear way from beginning to end. Alternatively you may find it easier to dip in and out of the course depending on what stage of your project planning you are at.
+1. Thinking about social work writing
+2. What do we mean by analysis?
+3. Description
+4. Explanation
+5. Evaluation
+6. Recommendation
+7. Representing the person’s view
+8. Writing as a process that supports analysis
 
-Each unit provides an overview which is followed by a practical exercise to complete. The activities for each unit will contribute to your project plan. 
+{{< notice tip >}}
+Each unit is made up of written explanations that cover the key learning and video recordings that give you more information and practitioners’ views, as well as practical exercises that you can complete online, or print and do at home.
 
-The summary in each unit will give you enough understanding to work through the course. If you are interested in learning more or seeing the principles in action, we have included a number of multimedia links.
+It is designed to be worked through in a linear way but if you find you need to go away and come back, or dip into specific bits, then feel free to use in whatever way works best for you.
 
-Due to the nature of this course, there will be a significant focus on technologies that can support distant working. Many of these technologies and platforms will be familiar to you and some will not. We are aware that everybody has different levels of digital literacy, access to technology and that digital solutions may not always be suitable for your group. To address this, we have included non-digital options. 
+The full course is available as a printable PDF, with space for you to try the exercises and take notes.
+{{< /notice >}}
 
-If you would like personal support using these technologies, Iriss is offering  [free support](https://www.iriss.org.uk/coronavirus-covid-19/helpme) to organisations who may be facing challenges in terms of technology during the COVID-19 pandemic.
+{{< button href="../files/iriss-writing-analysis-in-social-care-course-2021-03-21.pdf" >}}Download PDF version{{< /button >}}

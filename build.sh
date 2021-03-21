@@ -1,1 +1,1 @@
-hugo --config aws.toml --cleanDestinationDir --verbose -D 
+hugo --cleanDestinationDir --verbose -D 

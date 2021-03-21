@@ -1,11 +1,11 @@
 +++
 title = "Overview"
 subtitle = "Overview"
-featured_image =  '/images/000-homepage.png'
+featured_image =  '/images/writing-analysis.jpg'
 images = ["images/tw-card-00.png"]
-description = "Find yourself running a partnership or group work project where the participants can’t physically be together? Expand your knowledge, increase your confidence and write a practical project plan to get you started."
+description = "A free online course that provides practical support to writing analysis in relation to social work and social care records"
 url_start = "introduction"
 +++
-Find yourself running a partnership or group work project where the participants can’t physically be together? Expand your knowledge, increase your confidence and write a practical project plan to get you started.
+The aim of this course is to provide a practical framework for supporting the writing of analysis in social care records.
 
-This resource explores how we can work together as a mixed group of decision makers, staff members, and people with lived experience, when it is not practical for you to all be in the same room. It builds on our suite of co-production and partnership resources, including our co-production planner.
+This course aims to be relevant across social work domains.
