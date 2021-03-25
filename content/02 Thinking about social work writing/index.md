@@ -1,12 +1,11 @@
 +++
 title = "Thinking about social work writing"
 subtitle = ""
-description = ""
+description = "A practical framework for supporting the writing of analysis in social care records"
 url= "social-work-writing"
 date = 2021-03-20T15:13:22Z
 draft = false
 featured_image = "../images/writing.jpg"
-images = ["../images/tw-card-00.png"]
 menu = "main"
 weight = 30
 toc = true
@@ -17,7 +16,7 @@ Your professional writing is an essential part of your communication with the pe
 
 To find out more about recording practice, you could explore the summary of findings from an initial scoping review addressing [how practice is recorded within social work in Scotland](https://www.iriss.org.uk/resources/reports/recording-practice-and-accessing-records).
 
-Thinking about how and what you write is of course not primarily an ‘administrative’ issue.
+{{< box >}}Thinking about how and what you write is of course not primarily an ‘administrative’ issue.{{< /box >}}
 
 Making decisions about exactly what is written, whose views are represented, the language used to describe and analyse situations and lives are fundamentally ethical issues.  There is a moral imperative for practitioners to produce written records which are:
 
@@ -38,7 +37,7 @@ This project asked:
 
 Through interviews with 70 social workers, researcher observations of 10 weeks of everyday social work practice, 481 days of writing logs kept by social workers and 4,608 texts collected and anonymised – over 1.2 million words of written discourse – they reached a number of key conclusions about social work writing. Some of the findings provide hard evidence for claims that are frequently made.
 
-### A considerable amount of time is being spent on writing.
+### A considerable amount of time is being spent on writing
 
 Most social workers interviewed said they spend more than 50% of their time on writing but on the basis of observation and logs, considerably more time is spent, with some days involving 90% of time on writing.
 

@@ -1,12 +1,11 @@
 +++
 title = "Explanation"
 subtitle = ""
-description = ""
+description = "A practical framework for supporting the writing of analysis in social care records"
 url= "explanation"
 date = 2021-03-20T15:13:22Z
 draft = false
 featured_image = "../images/explanation.jpg"
-images = ["../images/tw-card-06.png"]
 menu = "main"
 weight = 70
 toc = true

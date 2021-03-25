@@ -1,12 +1,11 @@
 +++
 title = "What do we mean by analysis?"
 subtitle = ""
-description = ""
+description = "A practical framework for supporting the writing of analysis in social care records"
 url= "what-do-we-mean-analysis"
 date = 2021-03-20T15:13:22Z
 draft = false
 featured_image = "../images/whatmean.jpg"
-images = ["../images/tw-card-03.png"]
 menu = "main"
 weight = 40
 toc = true

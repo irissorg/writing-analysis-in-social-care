@@ -1,11 +1,10 @@
 +++
 title = "Further resources"
 subtitle = ""
-description = ""
+description = "A practical framework for supporting the writing of analysis in social care records"
 url= "further-resources"
 date = 2021-03-20T15:13:22Z
 draft = false
-images = ["../images/tw-card-12.png"]
 menu = "main"
 weight = 130
 +++

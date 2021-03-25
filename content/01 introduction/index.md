@@ -1,11 +1,10 @@
 +++
 title = "Introduction"
 subtitle = ""
-description = "A free online course that provides practical support to writing analysis in relation to social work and social care records"
+description = "A practical framework for supporting the writing of analysis in social care records"
 url= "introduction"
 date = 2021-03-20T15:13:22Z
 draft = false
-images = ["../images/tw-card-00.png"]
 menu = "main"
 weight = 20
 +++
@@ -27,7 +26,7 @@ Analysis is central to everyday social work practice and involves paying careful
 
 Analysis is of course also a **product**, a written record which captures key aspects of all the different parts of the analytic process – the thinking, listening and observing that social workers do. The written record of analysis involves selecting the most important details from all these aspects and writing in a way that makes these understandable to many different kinds of readers. Moving from analysis as process – a part of almost every moment of everyday practice and involving a wide range of professional skills, intuition and expertise – to analysis as a written product is central to the securing of services and providing good care for vulnerable young people and adults. Producing written analysis can also be challenging for many reasons.
 
-As social workers you know a lot about analysis in social work writing. This course has not been designed to tell you how to do analysis. Instead we are hoping to offer you a chance to clarify how you think about your writing at work, and help you to spend some time reflecting on what exactly is involved in the writing of analysis in your everyday practice.
+{{< box >}}As social workers you know a lot about analysis in social work writing. This course has not been designed to tell you how to do analysis. Instead we are hoping to offer you a chance to clarify how you think about your writing at work, and help you to spend some time reflecting on what exactly is involved in the writing of analysis in your everyday practice.{{< /box >}}
 
 ## How does the course work?
 

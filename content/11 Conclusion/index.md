@@ -1,11 +1,10 @@
 +++
 title = "Conclusion"
 subtitle = ""
-description = ""
+description = "A practical framework for supporting the writing of analysis in social care records"
 url= "conclusion"
 date = 2021-03-20T15:13:22Z
 draft = false
-images = ["../images/tw-card-11.png"]
 menu = "main"
 weight = 120
 +++
@@ -17,4 +16,8 @@ This course aimed to provide a practical framework for supporting the writing of
 2. Have considered some aspects of the language of written analysis
 3. Have reflected on your own practice of writing analysis
 
-If you are interested in exploring this topic further, there are other WiSPER and Iriss resources available. Complete **our evaluation** to let us know how you got on – what you learned and what you can use in your practice.
+If you are interested in exploring this topic further, there are other WiSPER and Iriss resources available.
+
+Please complete our evaluation to let us know how you got on – what you learned and what you can use in your practice.
+
+{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSehKokoNVtgnpUfFK21Tk6gmKfRa-7aCPWY3jJrWAlVx1sSAg/viewform?gxids=7628" >}}Complete Evaluation{{< /button >}}

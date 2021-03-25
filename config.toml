@@ -1,6 +1,6 @@
-baseURL = "https://content.iriss.org.uk/wasc"
+baseURL = "https://content.iriss.org.uk/writing-analysis-social-care"
 languageCode = "en-gb"
-title = "Writing Analysis in Social Care"
+title = "Writing analysis in social care"
 theme = ["hugo-notice", "iriss-course"]
 verbose = true
 copyrighthtml = "Copyright &#xA9; 2017 John Doe. All Rights Reserved."
@@ -10,18 +10,22 @@ disableKinds = ["RSS", "taxonomy", "taxonomyTerm", "404"]
 publishDir = "docs"
 enableInlineShortcodes = true
 
-
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
 
+[social]
+  twitter = "irissorg"
+
 [params]
+  description = "A practical framework for supporting the writing of analysis in social care records"
+  images = ["images/tw-card-00.jpg"]
   IrissCourseAuthors  = "Theresa Lillis and Josie Vallely"
   IrissPublishDate = "March 2021"
   IrissCourseYearReleased = "2021"
-  IrissHomeTitle = "Writing Analysis in Social Care"
-  IrissDescription = "A free online course that provides practical support to writing analysis in relation to social work and social care records"
+  IrissHomeTitle = "Writing analysis in social care"
+  IrissDescription = "A practical framework for supporting the writing of analysis in social care records"
 
 [markup.tableOfContents]
   endLevel = 2

@@ -1,12 +1,11 @@
 +++
 title = "Writing as a process that supports analysis"
 subtitle = ""
-description = ""
+description = "A practical framework for supporting the writing of analysis in social care records"
 url= "writing-process-supports-analysis"
 date = 2021-03-20T15:13:22Z
 draft = false
 featured_image = "../images/process.jpg"
-images = ["../images/tw-card-10.png"]
 menu = "main"
 weight = 110
 toc = true

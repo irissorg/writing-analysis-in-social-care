@@ -1,11 +1,10 @@
 +++
 title = "A framework for thinking about writing analysis"
 subtitle = ""
-description = ""
+description = "A practical framework for supporting the writing of analysis in social care records"
 url= "framework-writing-analysis"
 date = 2021-03-20T15:13:22Z
 draft = false
-images = ["../images/tw-card-04.png"]
 menu = "main"
 weight = 50
 +++
@@ -18,4 +17,6 @@ There are many ways of talking about written analysis. ‘Analysis’ is sometim
 3. Evaluation
 4. Recommendation
 
-Perhaps elements two and three are those we tend to think of as being most explicitly ‘analysis’ but one is a crucial element underpinning two and three, and the success of four, will depend on all three other elements being well presented in writing. In producing successful written analysis, it is important to think of all four elements. We will take you through each of these in the following units.
+Perhaps **Description** and **Evaluation** are those we tend to think of as being most explicitly ‘analysis’ but **Description** is a crucial element underpinning **Explanation** and **Evaluation**, and the success of **Recommendation**, will depend on all three other elements being well presented in writing.
+
+In producing successful written analysis, it is important to think of all four elements. We will take you through each of these in the following units.

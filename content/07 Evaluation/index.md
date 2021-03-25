@@ -1,12 +1,11 @@
 +++
 title = "Evaluation"
 subtitle = ""
-description = ""
+description = "A practical framework for supporting the writing of analysis in social care records"
 url= "evaluation"
 date = 2021-03-20T15:13:22Z
 draft = false
 featured_image = "../images/evaluation.jpg"
-images = ["../images/tw-card-07.png"]
 menu = "main"
 weight = 80
 toc = true

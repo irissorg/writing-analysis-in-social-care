@@ -1,11 +1,10 @@
 +++
 title = "Acknowledgements"
 subtitle = ""
+description = "A practical framework for supporting the writing of analysis in social care records"
 url= "acknowledgements"
 date = 2021-03-20T15:13:22Z
 draft = false
-images = ["../images/tw-card-00.png"]
-description = ""
 menu = "main"
 weight = 140
 +++
