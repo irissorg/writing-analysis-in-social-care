@@ -58,11 +58,11 @@ Respect for human rights, dignity and worth is captured by good analysis. In wri
 
 ### Professional integrity
 
-Good analysis writing takes account of organisational requirements and legal obligations. It also means being mindful of professional boundaries and responsibilities. This integrity then leads good analysis to offer clearly articulated and justified decisions, while taking into account the broader social context. Accuracy in recording leads to a fair representation of a supported persons’ point of view, allowing records to be shared in an open and direct way.
+Good analysis writing takes account of organisational requirements and legal obligations. It also means being mindful of professional boundaries and responsibilities. This integrity then leads good analysis to offer clearly articulated and justified decisions, while taking into account the broader social context. Accuracy in recording leads to a fair representation of a supported person's point of view, allowing records to be shared in an open and direct way.
 
 ### Accuracy, judiciousness and credibility
 
-Good analysis provides full and accurate information about peoples’ circumstances and accurately records the information to give a clear understanding of their needs to other professionals working with them. It includes only essential and relevant details, and does not use emotive or derogatory language.
+Good analysis provides full and accurate information about people's circumstances and accurately records the information to give a clear understanding of their needs to other professionals working with them. It includes only essential and relevant details, and does not use emotive or derogatory language.
 
 ### Reflexivity
 

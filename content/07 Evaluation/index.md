@@ -32,10 +32,12 @@ Using external sources of authority – published theory, research and legislati
 
 For discussion, see <https://www.communitycare.co.uk/2019/06/04/social-work-need-rethink-counts-evidence-based-practice/>
 
-Legislation underpins many of the kinds of records that social work keeps. There are statutory requirements to keep particular records and complete assessments to particular deadlines and timescales. Explicit reference to legislation may be important in offering an evaluation of a particular event or actions, for example, in one case record a social worker refers to legislation to support his action in carrying out an assessment, in a context where the person is unlikely to qualify for services:  
+Legislation underpins many of the kinds of records that social work keeps. There are statutory requirements to keep particular records and complete assessments to particular deadlines and timescales. Explicit reference to legislation may be important in offering an evaluation of a particular event or actions. For example, in one case record a social worker refers to legislation to support his action in carrying out an assessment, in a context where the person is unlikely to qualify for services:  
 
 > "…the duty to assess arises even if there is little prospect of the individual actually qualifying for the services, either because of resource limitations on the part of the  local authority or because of the financial circumstances of the service user…"  
 **(R v Bristol City Council ex parte Penfold [1998] 1 CCLR315) (Lillis, 2017)**
+
+> From Theresa Lillis (2017) Imagined, prescribed and actual text trajectories: the ‘problem’ with case notes in contemporary social work, Text and Talk,  37-4: 485-508.
 
 ## Your professional voice
 

@@ -13,7 +13,7 @@ toc = true
 ## Drafting and analysis is an iterative process
 
 > I think I learn by making handwritten notes, it’s part of my learning style  
-**comment by experienced social worker, Children's Services, WiSP project**
+**comment by experienced social worker, Children's Services, [WiSP project](http://www.writinginsocialwork.com/)**
 
 Most social workers make handwritten notes as part of their everyday practice for different purposes: to jot down specific details – dates, names, observations – while in meetings, talking with someone, observing in a particular situation. The notes are important in helping you remember specific details and usually form the basis for more detailed description, explanation and evaluation written in publicly visible texts at a later point e.g. case notes and assessment reports logged on ICT systems.
 
@@ -46,7 +46,7 @@ Drafting is usually considered a key part of producing high-quality written text
 
 Intuition is the process that happens when we draw on our experiences, recognising cues in a situation, spotting patterns and then building a narrative about what is going on. Using our experience to inform judgement is of course a very useful aspect of our professional practice, but challenges can pop-up when we need to demonstrate why we know what we know.
 
-Unexplored intuition can be a vehicle for bias, informed by our life experience, and our culture. Everybody has bias; we need to be constantly examining how these elements of decision making impact on our written analysis.
+Unexplored intuition can be a vehicle for bias, informed by our life experience, and our cultural backgrounds. Everybody has bias; we need to be constantly examining how these elements of decision making impact on our written analysis.
 
 By maintaining a healthy curiosity about your own intuition and cultural assumptions, you will be well placed to write thoughtful written analysis. Openly exploring what you don’t know about a written hypothesis can help you build anti oppressive practices into your written analysis.
 

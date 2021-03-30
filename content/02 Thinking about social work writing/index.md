@@ -57,7 +57,7 @@ Administration, applications for services, assessments, communication with other
 
 Case notes, emails, assessment reports and handwritten notes.
 
-### Digital (usually using ICT systems) and handwritten writing (usually in the form of notebooks) is part of everyday practice for different purposes
+### Digital (usually using ICT systems) and handwritten writing (usually in the form of notebooks) are part of everyday practice for different purposes
 
 ### There are a small number of core words in social work written discourse
 
@@ -65,11 +65,14 @@ Case notes, emails, assessment reports and handwritten notes.
 
 ### Key variations in writing are rhetorical
 
-That is the ways in which the text is organised and the language used in relation to the work. For example, there are key variations in relation to VOICE
+That is the ways in which the text is organised and the language used. For example, there are key variations in relation to VOICE
 
 * Voice – of writer/social worker and how they present themselves including explicit evaluation and analysis
 * Voice – how others’ voices are represented in the texts
 * Voice – who is being addressed and how.
+
+#### Adapted from
+Theresa Lillis, Maria Leedham, Alison Twiner (2020)‘If it’s not written down it didn’t happen’: Contemporary social work as a writing-intensive profession, Journal of Applied Linguistics and Professional Practice, 14, 1: 29-52. and Theresa Lillis, Maria Leedham, Alison Twiner  (2020) Time, the written record and professional practice: the case of contemporary social work, Written Communication,  37, 4: 431-486.
 
 ### Social workers have many profound concerns about writing
 
@@ -86,9 +89,9 @@ In order to support the people they are working with e.g. in relation to PiP (Pe
 
 ## What makes social work writing so complex?
 
-There is a range of reasons people become social workers. Maybe they were drawn to practically supporting people, advocating for their rights, supporting mediation or pursuing social justice. It would be unusual to find a social worker who was drawn to the profession by a love of writing. Yet, writing is  often the vehicle through which you are making change for the people you support.
+People become social workers for a range of reasons. A key reason is wanting to practically support people, advocating for their rights, supporting mediation or pursuing social justice. It would be unusual to find a social worker who was drawn to the profession by a love of writing. Yet, writing is  often the vehicle through which you are making change for the people you support.
 
-Social work writing is a particularly complex professional activity for a number of reasons. It encompasses not only what might be thought of as technical writing skill, but also a reflection of the ethics and values of the profession. It has multiple audiences, is completed under time pressure in often challenging and legal circumstances, and it has many forms.Each piece of writing must serve the people you are supporting, your colleagues, and the legal and justice systems that you are working within. In addition there are issues of confidentiality to contend with. Written social care records, furthermore, have a very long life. While they may be written to serve an immediate purpose – to provide a particular service or to secure protection and care for a vulnerable child or adult – they may also be read many years later, for example, by a young person who has experienced the care system. Writing with both immediate and long-term purposes and with multiple audiences in mind makes social work writing a challenging task.
+Social work writing is a particularly complex professional activity for a number of reasons. It encompasses not only what might be thought of as technical writing skill, but also the ethics and values of the profession. It has multiple audiences, is completed under time pressure in often challenging circumstances, and it has many forms.Each piece of writing must serve the people you are supporting, your colleagues, and the legal and justice systems that you are working within. In addition there are issues of confidentiality to contend with. Written social care records, furthermore, have a very long life. While they may be written to serve an immediate purpose – to provide a particular service or to secure protection and care for a vulnerable child or adult – they may also be read many years later, for example, by a young person who has experienced the care system. Writing with both immediate and long-term purposes and with multiple audiences in mind makes social work writing a challenging task.
 
 ## Why focus on analysis?
 
@@ -106,7 +109,7 @@ In our workshops with managers and frontline practitioners we had lots of discus
 
 When we reviewed this list with participants and managers, we saw that there was a theme running through these aspects. The workshops highlighted that when approaching recording, and in particular, analytical writing, there are a collection of interrelated skills that need to be in action at the same time – **both** critical thinking skills **and** writing skills.
 
-In this course we explore a framework for thinking about analysis that can be applied across any kind of professional writing. The processes explored in the course will help you to think about how to use your writing as a process of analysis and ensure that you are able to centre the person you are supporting in your writing.
+In this course we explore a framework for thinking about analysis that can be applied across any kind of professional writing. The processes explored in the course will help you to think about how to use your writing as a process of analysis and ensure that you are able to centre on the person you are supporting in your writing.
 
 ## Practical exercise: thinking about writing
 

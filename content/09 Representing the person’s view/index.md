@@ -44,10 +44,11 @@ A very different way of writing which is rather than write in the third person *
 Consider the extract written by an independent reviewing officer to a young person about their situation. What is the effect of writing to a person?
 
 > Rachel, your social worker said that you would like to return home to your parents but you are happy in your foster placement. You enjoy the food that your foster carer makes and you enjoy going to the library and to the park. You have said that you are not happy living with your elder sister as you say that she is not telling the truth about your parents. You have also said that she hits you and is not nice.
+**Gillian Lucas, Independent Reviewing Officer**
 
 This example is drawn from the [WiSPER resources](https://wisper.writinginsocialwork.com/resource/writing-to-the-child/). You can access a video with Gillian Lucas the reviewing officer and her views on why writing to the person, in this case a young person, rather than about the person, is important.
 
-The Independent Care Review The Promise (2018) emphasises the need for the voices of children to be heard and clearly represented in written records. It also draws attention to the need for written records to include explicit expressions of love and care towards the person being written about. There are several projects taking place at the moment in Scotland which are working to pt love at the centre of all recording practice. For more information, explore:
+The Independent Care Review The Promise (2018) emphasises the need for the voices of children to be heard and clearly represented in written records. It also draws attention to the need for written records to include explicit expressions of love and care towards the person being written about. There are several projects taking place at the moment in Scotland which are working to put love at the centre of all recording practice. For more information, explore:
 
 * [The Love Inc project](https://www.aberlour.org.uk/services/love-inc-project/ )
 * Write Right About Me (WARM) (contact Miriam Smith MirSmith@aberdeencity.gov.uk for details)

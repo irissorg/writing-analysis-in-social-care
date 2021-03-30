@@ -46,7 +46,7 @@ awaiting, bail, belongings, bruising, co-funding, completed, discharge, discharg
 
 abusive, allegation, appropriately, ascertain, behaviours, clean and tidy, CSE (Child sexual exploitation) deteriorated, due to, DV (domestic violence) engaging, enjoys, high-risk, incidents, independently, manage, misuse, needs, prompting, routines, struggles, supervision, unable, unsure, wellbeing
 
-From Maria Leedham, Theresa Lillis, Alison Twiner (2020) Exploring the core preoccupation of social work writing: A corpus-assisted discourse study. Journal of Corpora and Discourse Studies, 2(1):1–30
+> From Maria Leedham, Theresa Lillis, Alison Twiner (2020) Exploring the core preoccupation of social work writing: A corpus-assisted discourse study. Journal of Corpora and Discourse Studies, 2(1):1–30
 
 Of course, whether words are considered ‘neutral’ or expressing a negative or positive connotation depends on the rest of the text, and the perspective of the reader. It may be surprising to think of ‘routine’ as an evaluative term but it’s clear from an analysis of written social work documents  that ‘routine’ is always used with positive connotations. ’Routines’ seems to indicate a level of order and normality, thus the word ‘routines’  is used to refer to regular patterns of behaviour that are viewed positively.
 
