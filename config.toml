@@ -9,6 +9,7 @@ googleAnalytics = "UA-814723-1"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm", "404"]
 publishDir = "docs"
 enableInlineShortcodes = true
+# relativeURLs = true
 
 [sitemap]
   changefreq = "monthly"
