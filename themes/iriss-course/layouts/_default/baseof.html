@@ -14,7 +14,11 @@
 		<meta name="author" content="{{ $.Site.Params.IrissCourseAuthors }}" />
         <!-- Mobile -->
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <script src="https://kit.fontawesome.com/e5f8a3a999.js" crossorigin="anonymous"></script>
+		
+		<link href="{{ "icons/fontawesome.min.css" | relURL }}" rel="stylesheet">
+  		<link href="{{ "icons/brands.min.css" | relURL }}" rel="stylesheet">
+  		<link href="{{ "icons/solid.min.css" | relURL }}" rel="stylesheet">
+        {{/*  <script src="https://kit.fontawesome.com/e5f8a3a999.js" crossorigin="anonymous"></script>  */}}
         {{/*  <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&family=Source+Sans+Pro:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">  */}}
 		{{/*  <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&family=Source+Sans+Pro:ital,wght@0,400;0,600;1,400;1,600&display=swap" rel="stylesheet">  */}}
         {{ hugo.Generator }}
@@ -27,7 +31,7 @@
 		
 		
 		<!--[if lte IE 8]><script src="{{ $jsshiv.Permalink }}"></script><![endif]-->
-		<link rel="stylesheet" href="fonts/fonts-local.css">
+		<link rel="stylesheet" href="{{ "fonts/fonts-local.css" | relURL }}">
 		<link rel="stylesheet" href="{{ $cssmain.Permalink }}">
 		{{ "<!--[if lte IE 9]>" | safeHTML }}
 			<link rel="stylesheet" href="{{ $cssie9.Permalink }}" />
