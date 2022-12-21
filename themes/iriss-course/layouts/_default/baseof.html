@@ -60,11 +60,11 @@
 									<ul class="icons">
 
 
-										<li><a href="https://twitter.com/irissorg" class="icon fab fa-twitter"><span class="label">Twitter</span></a></li>
-										<li><a href="https://www.facebook.com/InstituteResearchInnovationSocialServices" class="icon fab fa-facebook-f"><span class="label">Facebook</span></a></li>
-										<li><a href="https://www.instagram.com/irissorg/" class="icon fab fa-instagram"><span class="label">Instagram</span></a></li>
-										<li><a href="https://vimeo.com/iriss" class="icon fab fa-vimeo-v"><span class="label">Vimeo</span></a></li>
-										<li><a href="https://podcast.iriss.org.uk" class="icon fas fa-podcast" aria-hidden="true"><span class="label">Iriss Podcast</span></a></li>
+										<li><a href="https://twitter.com/irissorg" title="Twitter" class="icon fab fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="https://www.facebook.com/InstituteResearchInnovationSocialServices" title="Facebook" class="icon fab fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="https://www.instagram.com/irissorg/" title="Instagram" class="icon fab fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="https://vimeo.com/iriss" title="Vimeo" class="icon fab fa-vimeo-v"><span class="label">Vimeo</span></a></li>
+										<li><a href="https://podcast.iriss.org.uk" title="Iriss Podcast" class="icon fas fa-podcast" aria-hidden="true"><span class="label">Iriss Podcast</span></a></li>
 									</ul>
 								</header>
 
@@ -105,8 +105,8 @@
         <script src="{{ $jsutil.Permalink }}"></script>
         <!--[if lte IE 8]><script src="{{ $jsrespond.Permalink }}"></script><![endif]-->
         <script src="{{ $jsmain.Permalink }}"></script>
-        {{ template "_internal/google_analytics_async.html" . }}
-        <script type="text/javascript" id="cookieinfo"
+        {{/*  {{ template "_internal/google_analytics_async.html" . }}  */}}
+        {{/*  <script type="text/javascript" id="cookieinfo"
             src="//cookieinfoscript.com/js/cookieinfo.min.js"
             data-bg="#64555B"
             data-fg="#FFFFFF"
@@ -115,11 +115,11 @@
             data-cookie="CookieInfoScript"
             data-text-align="left"
             data-close-text="Got it!">
-        </script>
+        </script>  */}}
 
-        {{ $jsfeedback := resources.Get "js/feedback.dev.js" }}
-        <script src="{{ $jsfeedback.Permalink }}"></script>
-		<script>
+        {{/*  {{ $jsfeedback := resources.Get "js/feedback.dev.js" }}  */}}
+        {{/*  <script src="{{ $jsfeedback.Permalink }}"></script>  */}}
+		{{/*  <script>
 				gaf.init( {
 				'open': 'Feedback',
 				'title': 'We would love to hear your thoughts!',
@@ -131,7 +131,7 @@
 				'send': 'Send',
 				'thankyou': 'Thank you for your feedback!'
 			} );
-		</script>
+		</script>  */}}
 
 
     </body>
